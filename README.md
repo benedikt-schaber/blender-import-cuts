@@ -2,6 +2,8 @@
 
 Allows you to import an object from a directory of SVG cuts.
 
+![feature banner](/docs/imgs/featured.png)
+
 ## Installation
 Install the release [zip file](https://github.com/benedikt-schaber/blender-import-cuts/releases) manually in Blender. See the [Blender Manual](https://docs.blender.org/manual/en/latest/editors/preferences/extensions.html) for more details.
 
