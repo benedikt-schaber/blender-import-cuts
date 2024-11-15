@@ -10,6 +10,9 @@ The cuts are sorted based on filename in alphabetical order. I thus recommend st
 
 Once the plugin is installed, you can find the import option in the file menu under `Import -> SVG Cuts Directory (*.svg)`.
 
+### Working with pngs
+If your cuts are in the png format you will have to convert them to svg files first. See this [gist](https://gist.github.com/benedikt-schaber/13b6fed6361f390069cd631a23deea5f) for instructions on how to do this.
+
 ## Citation
 This plugin is open-source and may be freely used in academic research and publications. If you use this plugin in your research, please cite it using github's citation feature in the sidebar or according to the CITATION file.
 
