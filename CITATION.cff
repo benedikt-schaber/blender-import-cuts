@@ -10,5 +10,6 @@ title: "Import SVG Cuts - Blender Extension"
 url: 'https://github.com/benedikt-schaber/blender-import-cuts'
 license: GPL-3.0-or-later
 version: 1.0.0
+doi: https://doi.org/10.5281/zenodo.14170449
 date-released: "2024-11-15"
 commit: d868764
