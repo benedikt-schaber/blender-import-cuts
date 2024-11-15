@@ -1,0 +1,20 @@
+schema_version = "1.0.0"
+
+id = "import_files_svg_cuts_directory"
+version = "1.0.0"
+name = "Import SVG Cuts Directory"
+tagline = "Import object based on a directory of SVG cuts"
+maintainer = "Benedikt Schaber <benedikt@schaber.io>"
+type = "add-on"
+
+website = "https://github.com/benedikt-schaber/blender-import-cuts"
+
+blender_version_min = "4.2.0"
+
+license = [
+  "SPDX:GPL-3.0-or-later",
+]
+
+copyright = [
+  "2024 Benedikt Schaber",
+]
