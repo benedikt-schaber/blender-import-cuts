@@ -9,6 +9,8 @@ type = "add-on"
 
 website = "https://github.com/benedikt-schaber/blender-import-cuts"
 
+tags = ["Import-Export"]
+
 blender_version_min = "4.2.0"
 
 license = [
