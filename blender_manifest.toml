@@ -1,7 +1,7 @@
 schema_version = "1.0.0"
 
 id = "import_files_svg_cuts_directory"
-version = "1.0.0"
+version = "1.0.1"
 name = "Import SVG Cuts Directory"
 tagline = "Import object based on a directory of SVG cuts"
 maintainer = "Benedikt Schaber <benedikt@schaber.io>"
